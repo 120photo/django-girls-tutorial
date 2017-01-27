@@ -1,4 +1,7 @@
-myenv/
+*.pyc
+*~
+__pycache__
+myenv
 *.sqlite3
-*/__pycache__/
-*/*/__pycache__/
+/static
+.DS_Store
