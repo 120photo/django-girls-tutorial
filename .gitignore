@@ -5,3 +5,4 @@ myenv
 *.sqlite3
 /static
 .DS_Store
+tags
